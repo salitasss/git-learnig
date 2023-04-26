@@ -1,0 +1,6 @@
+primera bd 
+
+
+
+
+:wq
